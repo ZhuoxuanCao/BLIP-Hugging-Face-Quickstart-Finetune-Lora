@@ -1,3 +1,12 @@
+# 不上传虚拟环境和缓存
+.venv/
+lora_blip_output
+src
+all_modules.txt
+annotations.json
+chang_jsonl.py
+print_modules.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

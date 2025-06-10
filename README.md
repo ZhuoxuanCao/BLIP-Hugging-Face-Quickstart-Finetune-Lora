@@ -233,3 +233,12 @@ Feel free to use them for benchmarking, re-training, or method comparison.
 
 > If you use our dataset, please cite this repository.
 
+## 6. License
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🔍 Keywords
+
+BLIP captioning, image-text dataset, Hugging Face Transformers, fine-tuning vision-language models, Lora, PyTorch training, beginner-friendly multimodal project, inference-ready pipeline, GPU-compatible training, custom annotation format, blip-image-captioning-large.
